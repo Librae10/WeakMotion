@@ -2,6 +2,13 @@
 This is the PyTorch code for [Weakly Supervised Class-Agnostic Motion Prediction for Autonomous Driving (CVPR2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Weakly_Supervised_Class-Agnostic_Motion_Prediction_for_Autonomous_Driving_CVPR_2023_paper.pdf).
 The code is created by Ruibo Li (ruibo001@e.ntu.edu.sg).
 
+## Updates
+We release an extended version of WeakMotionNet on [Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving
+ (T-PAMI 2026)](https://ieeexplore.ieee.org/document/11143881).
+You can also check out the arXiv version at  [WeakMotionPP-arXiv](https://arxiv.org/abs/2509.13116).
+
+The code for WeakMotionPP can be found in [WeakMotionPP](https://github.com/L1bra1/RigidFlowPP).
+
 
 ## Prerequisities
 * Python 3.7
