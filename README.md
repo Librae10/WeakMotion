@@ -7,7 +7,7 @@ We release an extended version of WeakMotionNet on [Weakly and Self-Supervised C
  (T-PAMI 2026)](https://ieeexplore.ieee.org/document/11143881).
 You can also check out the arXiv version at  [WeakMotionPP-arXiv](https://arxiv.org/abs/2509.13116).
 
-The code for WeakMotionPP can be found in [WeakMotionPP](https://github.com/L1bra1/RigidFlowPP).
+The code for WeakMotionPP can be found in [WeakMotionPP](https://github.com/Librae10/WeakMotionPP).
 
 
 ## Prerequisities
